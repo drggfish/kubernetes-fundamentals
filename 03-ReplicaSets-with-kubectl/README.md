@@ -96,7 +96,7 @@ http://<node1-public-ip>:<Node-Port>/hello
 # To get Pod Name
 kubectl get pods
 
-# Delete the Pod
+# Delete the Podkube
 kubectl delete pod <Pod-Name>
 
 # Verify the new pod got created automatically
